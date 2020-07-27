@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Iris-Dataset
+# Exploratory Data Analysis on Iris Dataset
 
 # What Is Exploratory Data Analysis?
 
