@@ -13,9 +13,11 @@ Many Data Scientists will be in a hurry to get to the machine learning stage, 
 
 # EDA on Iris Dataset:
 
-1)In the Ipython Notebook we will see step by step procedure to perform EDA on a simple dataset( Iris DataSet)
+1) EDA on IRIS dataset, to classify whether a given flower belong to which type. Here the features of flower is taken into consideration after that bivariate, univariate analysis is done on the dataset to find from which feature we are able to classify the type of class.
 
-2)Following steps are mentioned in the Ipython notebook along with python code.
+2)In the Ipython Notebook we will see step by step procedure to perform EDA on a simple dataset( Iris DataSet)
+
+3)Following steps are mentioned in the Ipython notebook along with python code.
 
             A)Analyzing the Data (High level statistics of the dataset)
             B) Univaraite analysis of data using the following
@@ -29,4 +31,4 @@ Many Data Scientists will be in a hurry to get to the machine learning stage, 
                     2)Pair-plot (To observe all 2-D Scatter Plot) 
                     3)Multivariate probability density plot or Contour Plot
                     
- 3)Above mentioned Exploratory data analysis is performed on Iris data set and observation/ Conclusion from each plot is mentioned clearly in Ipython Notebook
+ 4)Above mentioned Exploratory data analysis is performed on Iris data set and observation/ Conclusion from each plot is mentioned clearly in Ipython Notebook
