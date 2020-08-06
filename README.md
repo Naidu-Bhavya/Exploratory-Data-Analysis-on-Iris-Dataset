@@ -13,7 +13,7 @@ Many Data Scientists will be in a hurry to get to the machine learning stage, 
 
 # EDA on Iris Dataset:
 
-1) EDA on IRIS dataset, to classify whether a given flower belong to which type. Here the features of flower is taken into consideration after that bivariate, univariate analysis is done on the dataset to find from which feature we are able to classify the type of class.
+1) EDA on IRIS dataset, to classify whether a given flower belong to which type. Here the features of flower is taken into consideration after that bivariate, univariate analysis is done on the dataset to find from which features we are able to classify the type of class.
 
 2)In the Ipython Notebook we will see step by step procedure to perform EDA on a simple dataset( Iris DataSet)
 
