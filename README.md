@@ -32,3 +32,5 @@ Many Data Scientists will be in a hurry to get to the machine learning stage, 
                     3)Multivariate probability density plot or Contour Plot
                     
  4)Above mentioned Exploratory data analysis is performed on Iris data set and observation/ Conclusion from each plot is mentioned clearly in Ipython Notebook
+ 
+ For detailed explanation please read my blog on EDA https://medium.com/@naidubhavya06/detailed-explanation-of-exploratory-data-analysis-using-iris-dataset-fa8082a4ce0f
